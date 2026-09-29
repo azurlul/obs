@@ -68,7 +68,7 @@ python main.py
 
 On start, the script hooks and launches the game on each device and waits 30 seconds for it to load. Then it scans.
 
-## Demonstration
+## PoC
 
 [![Watch the demo](https://img.youtube.com/vi/g5ccXKAaUXM/maxresdefault.jpg)](https://www.youtube.com/watch?v=g5ccXKAaUXM)
 
