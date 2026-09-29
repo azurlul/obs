@@ -1,0 +1,38 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- Secrets / credentials ----
+# Never commit API logins, tokens, keys, or a .env
+.env
+*.env
+secrets.*
+
+# ---- Generated data / run state ----
+database/
+*.db
+*.db-wal
+*.db-shm
+scanned.txt
+errors/
+retries.txt
+errors.txt
+
+# ---- Input data (player tags) ----
+tags.txt
+
+# ---- Compiled native artifacts ----
+*.so
+
+lib/
+build/
+
+# ---- Editor / OS ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
