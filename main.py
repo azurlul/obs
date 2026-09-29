@@ -225,7 +225,7 @@ async def base():
     client = AdbClient(host='127.0.0.1', port=5037)  # ADB client for connected Android devices
     db = open_db()
 
-    await coc_client.login("bowopo1192@idoidraw.com", "blablabla1234")
+    await coc_client.login("", "")
     devs, streams = await startup(client)
 
     # Load tags and skip anything already done in a previous run (resume).
