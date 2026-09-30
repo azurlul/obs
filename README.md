@@ -70,7 +70,7 @@ On start, the script hooks and launches the game on each device and waits 30 sec
 
 ## PoC
 
-[![Watch the demo](https://img.youtube.com/vi/g5ccXKAaUXM/maxresdefault.jpg)](https://www.youtube.com/watch?v=g5ccXKAaUXM)
+[![Watch the demo](https://img.youtube.com/vi/kqf9FCeltPM/maxresdefault.jpg)](https://www.youtube.com/watch?v=kqf9FCeltPM)
 
 ## Output files
 
